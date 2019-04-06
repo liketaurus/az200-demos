@@ -688,11 +688,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alexa\\Documents\\Github\\az200-demos-snippets\\POCOs\\POCOs.csproj",
-      "projectName": "POCOs",
-      "projectPath": "C:\\Users\\alexa\\Documents\\Github\\az200-demos-snippets\\POCOs\\POCOs.csproj",
+      "projectUniqueName": "C:\\Users\\alexa\\Documents\\Github\\az200-demos-snippets\\AZ200T04_3_Console\\AZ200T04_3_Console.csproj",
+      "projectName": "AZ200T04_3_Console",
+      "projectPath": "C:\\Users\\alexa\\Documents\\Github\\az200-demos-snippets\\AZ200T04_3_Console\\AZ200T04_3_Console.csproj",
       "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alexa\\Documents\\Github\\az200-demos-snippets\\POCOs\\obj\\",
+      "outputPath": "C:\\Users\\alexa\\Documents\\Github\\az200-demos-snippets\\AZ200T04_3_Console\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -723,7 +723,6 @@
       "netcoreapp2.1": {
         "dependencies": {
           "Microsoft.NETCore.App": {
-            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
