@@ -37,7 +37,7 @@
 
 ## "Новые" лабораторные работы?
 
-Уверен, со временем на [Microsoft Online Labs](https://www.microsoft.com/handsonlabs/SelfPacedLabs) появятся лабораторные работы, на которые ссылаются слайды курсов, составляющих эту программу обучения*
+Уверен, со временем на [Microsoft Online Labs](https://www.microsoft.com/handsonlabs/SelfPacedLabs) появятся лабораторные работы, на которые ссылаются слайды курсов, составляющих эту программу обучения``*``
 
 Кстати, стоит зарегистрироваться уже сейчас - там уже есть на что посмотреть и что попробовать. Точно так же стоит заглянуть на [Microsoft Learn](https://docs.microsoft.com/en-us/learn/browse/?roles=developer&products=azure) - там уже есть много полезных тренингов для Azure-разработчиков.
 
