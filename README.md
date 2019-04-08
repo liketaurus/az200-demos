@@ -37,7 +37,7 @@
 
 ## "Новые" лабораторные работы?
 
-Уверен, со временем на [Microsoft Online Labs](https://www.microsoft.com/handsonlabs/SelfPacedLabs) появятся лабораторные работы, на которые ссылаются слайды курсов, составляющих эту программу обучения.
+Уверен, со временем на [Microsoft Online Labs](https://www.microsoft.com/handsonlabs/SelfPacedLabs) появятся лабораторные работы, на которые ссылаются слайды курсов, составляющих эту программу обучения*
 
 Кстати, стоит зарегистрироваться уже сейчас - там уже есть на что посмотреть и что попробовать. Точно так же стоит заглянуть на [Microsoft Learn](https://docs.microsoft.com/en-us/learn/browse/?roles=developer&products=azure) - там уже есть много полезных тренингов для Azure-разработчиков.
 
@@ -48,3 +48,5 @@
 - [Azure Code Samples](https://azure.microsoft.com/en-us/resources/samples/?platform=dotnet&sort=2)
 - [Free eBook – The Developer’s Guide to Microsoft Azure](https://azure.microsoft.com/en-us/blog/free-ebook-the-developer-s-guide-to-microsoft-azure-now-available/)
 - [Build Azure: Books](https://buildazure.com/book/)
+
+``*`` Увы, больше ничего не появится - **с 1 апреля 2019 года программы подготовки AZ-200 и AZ-201 заменяются новой комплексной программой AZ-203**. Подробнее - [здесь](https://www.wintellect.com/course/az-200-microsoft-azure-developer-core-solutions-certification-track/)
