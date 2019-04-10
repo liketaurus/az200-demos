@@ -19,4 +19,11 @@
 ```powershell
    Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 ```
-6. готово! Можно выполнять команду ```Add-20533EEnvironment ``` (IntelliSense работает, вам все подскажут. Но если не получается - возможно, придется написать еще ```Import-Module Add-20533EEnvironment```)
+6. готово! Можно пользоваться:
+```powershell
+   Add-20533EEnvironment 
+``` 
+IntelliSense работает, вам все подскажут. Но если не получается - возможно, придется написать: 
+```powershell 
+   Import-Module Add-20533EEnvironment
+```
