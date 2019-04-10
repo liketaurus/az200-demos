@@ -31,7 +31,7 @@
   - также (*если останется время*) можно рассмотреть работы [4 (Azure SQL)](https://github.com/MicrosoftLearning/20532-DevelopingMicrosoftAzureSolutions/blob/master/Instructions/Labs/Mod04/LAB_AK_04.md) и [7 (Blobs)](https://github.com/MicrosoftLearning/20532-DevelopingMicrosoftAzureSolutions/blob/master/Instructions/Labs/Mod07/LAB_AK_07.md) из того же курса
 - **AZ-200Т03**
   - работа [**10** (Logic App, Function App, Cognitive Services)](https://github.com/MicrosoftLearning/20535-ArchitectingMicrosoftAzureSolutions/blob/master/Instructions/Labs/Mod10/20535A_LAB_AK_10.md) из курса 20535
-  - работа [**7** (Containers)](https://github.com/MicrosoftLearning/20533-ImplementingMicrosoftAzureInfrastructureSolutions/blob/master/Instructions/20533E_LAB_AK_07.md) из курса 20533
+  - работа [**7** (Containers)](https://github.com/MicrosoftLearning/20533-ImplementingMicrosoftAzureInfrastructureSolutions/blob/master/Instructions/20533E_LAB_AK_07.md) из курса 20533 ([инструкция](https://github.com/liketaurus/az200-demos-snippets/blob/master/AZ200T03/How%20to%20get%2020533%20scripts%20working.md), как подключить модули для подготовки среды)
 - **AZ-200T04**
   - работа [**11** (Azure AD)](https://github.com/MicrosoftLearning/20532-DevelopingMicrosoftAzureSolutions/blob/master/Instructions/Labs/Mod11/LAB_AK_11.md) из курса 20532
   - также (*если останется время*) можно рассмотреть работу [9 (Key Vault)](https://github.com/MicrosoftLearning/20535-ArchitectingMicrosoftAzureSolutions/blob/master/Instructions/Labs/Mod09/20535A_LAB_AK_09.md) из курса 20535
