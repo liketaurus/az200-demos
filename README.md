@@ -45,6 +45,7 @@
 ## Дополнительные материалы
 - описание сертификационного экзамена [AZ-200](https://www.microsoft.com/en-us/learning/exam-az-200.aspx)
 - полный [каталог сертфициационных экзаменов Microsoft](https://www.microsoft.com/en-us/learning/exam-list.aspx)
+- [Microsoft Certifications Guide](https://www.certificationcamps.com/microsoft-certifications-guide/)
 - [Azure for .NET and .NET Core developers](https://docs.microsoft.com/en-us/dotnet/azure/)
 - [Azure Code Samples](https://azure.microsoft.com/en-us/resources/samples/?platform=dotnet&sort=2)
 - [Free eBook – The Developer’s Guide to Microsoft Azure](https://azure.microsoft.com/en-us/blog/free-ebook-the-developer-s-guide-to-microsoft-azure-now-available/)
